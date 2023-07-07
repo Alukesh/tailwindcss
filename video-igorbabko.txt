@@ -1,0 +1,9 @@
+in just html run in terminal npx tailwindcss -o tailwind.css --content index.html --watch
+
+from youtube @igorbabko
+
+link to customize
+https://heroicons.com/  svgs
+https://picsum.photos/  random photos
+https://tailwindcss.com/docs/line-clamp  cut unnessesary text lines 
+
