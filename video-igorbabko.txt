@@ -1,6 +1,7 @@
 in just html run in terminal npx tailwindcss -o tailwind.css --content index.html --watch
 
 from youtube @igorbabko
+https://www.youtube.com/watch?v=xA_RHSO8vAE&list=PL-FhWbGlJPfbU2h4eAtSGiQ0btevqXv8K&index=11
 
 link to customize
 https://heroicons.com/  svgs
